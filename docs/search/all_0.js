@@ -1,6 +1,4 @@
 var searchData=
 [
-  ['about_20soldered_0',['About Soldered',['../index.html#autotoc_md5',1,'']]],
-  ['address_1',['address',['../class_easy_c.html#a6f4c6f2e8723b0c0495e126d49f5fcda',1,'EasyC']]],
-  ['arduino_20library_2',['NAZIV PROIZVODA Arduino library',['../index.html',1,'']]]
+  ['_5f_5fpad0_5f_5f_0',['__pad0__',['../class_b_m_p280___d_e_v.html#a787ab457733e47e67ecd7468c0452b66',1,'BMP280_DEV']]]
 ];

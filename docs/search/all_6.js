@@ -1,5 +1,6 @@
 var searchData=
 [
-  ['generic_2deasyc_2dsoldered_2ecpp_0',['Generic-easyC-SOLDERED.cpp',['../_generic-easy_c-_s_o_l_d_e_r_e_d_8cpp.html',1,'']]],
-  ['generic_2deasyc_2dsoldered_2eh_1',['Generic-easyC-SOLDERED.h',['../_generic-easy_c-_s_o_l_d_e_r_e_d_8h.html',1,'']]]
+  ['filter_0',['filter',['../class_b_m_p280___d_e_v.html#a7c74b376b77d89a6b70b190cd864b42b',1,'BMP280_DEV']]],
+  ['forced_5fmode_1',['FORCED_MODE',['../_b_m_p280___d_e_v_8h.html#a46c8a310cf4c094f8c80e1cb8dc1f911af93f7214719796eb62d49359c1c5eb05',1,'BMP280_DEV.h']]],
+  ['fun_2',['Have fun!',['../index.html#autotoc_md8',1,'']]]
 ];

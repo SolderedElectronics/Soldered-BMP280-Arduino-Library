@@ -1,5 +1,30 @@
 var searchData=
 [
-  ['compatibility_0',['Board compatibility',['../index.html#autotoc_md4',1,'']]],
-  ['contents_1',['Repository Contents',['../index.html#autotoc_md1',1,'']]]
+  ['begin_0',['begin',['../class_soldered___b_m_p280.html#a8a86c48530246ba1afa90644cf6225e6',1,'Soldered_BMP280::begin()'],['../class_b_m_p280___d_e_v.html#a8e668c0f619c91a75dbda74a91bd362e',1,'BMP280_DEV::begin(Mode mode=SLEEP_MODE, Oversampling presOversampling=OVERSAMPLING_X16, Oversampling tempOversampling=OVERSAMPLING_X2, IIRFilter iirFilter=IIR_FILTER_OFF, TimeStandby timeStandby=TIME_STANDBY_05MS)'],['../class_b_m_p280___d_e_v.html#a890191abb85e2f47a6b404fabbf60f96',1,'BMP280_DEV::begin(Mode mode, uint8_t addr)'],['../class_b_m_p280___d_e_v.html#a5c77c9cae9deadb061c18a6fcef61be4',1,'BMP280_DEV::begin(uint8_t addr)']]],
+  ['bit_1',['bit',['../class_b_m_p280___d_e_v.html#aeb27490aaadfefee58e6fc97ddc9530e',1,'BMP280_DEV::bit'],['../class_b_m_p280___d_e_v.html#a35f80a6f4d7b43f0ea2dd288c52fa87b',1,'BMP280_DEV::bit'],['../class_b_m_p280___d_e_v.html#ab169c5a24e802cba6d2c2970b2ab9da5',1,'BMP280_DEV::bit']]],
+  ['bmp280_20breakout_20arduino_20library_2',['Pressure &amp; Temperature sensor BMP280 Breakout Arduino library',['../index.html',1,'']]],
+  ['bmp280_2dsoldered_2ecpp_3',['BMP280-SOLDERED.cpp',['../_b_m_p280-_s_o_l_d_e_r_e_d_8cpp.html',1,'']]],
+  ['bmp280_2dsoldered_2eh_4',['BMP280-SOLDERED.h',['../_b_m_p280-_s_o_l_d_e_r_e_d_8h.html',1,'']]],
+  ['bmp280_5fcompensate_5fp_5fint64_5',['bmp280_compensate_P_int64',['../class_b_m_p280___d_e_v.html#ad81b2a23ab4cb406449727a883f261ce',1,'BMP280_DEV']]],
+  ['bmp280_5fcompensate_5ft_5fint32_6',['bmp280_compensate_T_int32',['../class_b_m_p280___d_e_v.html#aa1ca18478f45c6b743e573456e345281',1,'BMP280_DEV']]],
+  ['bmp280_5fconfig_7',['BMP280_CONFIG',['../_b_m_p280___d_e_v_8h.html#a06fc87d81c62e9abb8790b6e5713c55badf7351225793df5d5acd5c83ccc8ad76',1,'BMP280_DEV.h']]],
+  ['bmp280_5fctrl_5fmeas_8',['BMP280_CTRL_MEAS',['../_b_m_p280___d_e_v_8h.html#a06fc87d81c62e9abb8790b6e5713c55ba277ec003782da40aae44a43f31e3cf6f',1,'BMP280_DEV.h']]],
+  ['bmp280_5fdev_9',['BMP280_DEV',['../class_b_m_p280___d_e_v.html',1,'BMP280_DEV'],['../class_b_m_p280___d_e_v.html#a5a043f6fed4997ba31dd3b558d8d5e35',1,'BMP280_DEV::BMP280_DEV(TwoWire &amp;twoWire=Wire)'],['../class_b_m_p280___d_e_v.html#a846d6d871e524d152b169939532d58b2',1,'BMP280_DEV::BMP280_DEV(uint8_t sda, uint8_t scl, TwoWire &amp;twoWire=Wire)'],['../class_b_m_p280___d_e_v.html#a9dcb9300ebb848497167bb44226105b6',1,'BMP280_DEV::BMP280_DEV(uint8_t cs)'],['../class_b_m_p280___d_e_v.html#a846d6d871e524d152b169939532d58b2',1,'BMP280_DEV::BMP280_DEV(uint8_t sda, uint8_t scl, TwoWire &amp;twoWire=Wire)'],['../class_b_m_p280___d_e_v.html#a1723f91063dd4b2de25671d947b7493d',1,'BMP280_DEV::BMP280_DEV(uint8_t cs, uint8_t spiPort, SPIClass &amp;spiClass)']]],
+  ['bmp280_5fdev_20library_20strong_10',['&lt;strong&gt;BMP280_DEV Library&lt;/strong&gt;',['..//github/workspace/gh-pages/src/libs/README.md#autotoc_md16',1,'']]],
+  ['bmp280_5fdev_2ecpp_11',['BMP280_DEV.cpp',['../_b_m_p280___d_e_v_8cpp.html',1,'']]],
+  ['bmp280_5fdev_2eh_12',['BMP280_DEV.h',['../_b_m_p280___d_e_v_8h.html',1,'']]],
+  ['bmp280_5fdevice_5fid_13',['BMP280_DEVICE_ID',['../_b_m_p280___d_e_v_8h.html#a06fc87d81c62e9abb8790b6e5713c55ba272a3b94670c735dbcb5e81e676273e9',1,'BMP280_DEV.h']]],
+  ['bmp280_5fpres_5flsb_14',['BMP280_PRES_LSB',['../_b_m_p280___d_e_v_8h.html#a06fc87d81c62e9abb8790b6e5713c55ba5040bc95fa079b340ae81fdf93f425be',1,'BMP280_DEV.h']]],
+  ['bmp280_5fpres_5fmsb_15',['BMP280_PRES_MSB',['../_b_m_p280___d_e_v_8h.html#a06fc87d81c62e9abb8790b6e5713c55ba14f5d72582e8208cc8c6160819f5fb31',1,'BMP280_DEV.h']]],
+  ['bmp280_5fpres_5fxlsb_16',['BMP280_PRES_XLSB',['../_b_m_p280___d_e_v_8h.html#a06fc87d81c62e9abb8790b6e5713c55bad4b27306a91bd13ea14c8b1a5f3cd1d0',1,'BMP280_DEV.h']]],
+  ['bmp280_5freset_17',['BMP280_RESET',['../_b_m_p280___d_e_v_8h.html#a06fc87d81c62e9abb8790b6e5713c55ba345ba2e3d12a46694fee8345a8e6d42b',1,'BMP280_DEV.h']]],
+  ['bmp280_5fspi0_18',['BMP280_SPI0',['../_b_m_p280___d_e_v_8h.html#a8b11af9478a385bfe25c725e658b0800ac055fc0b76a0e7fabbde37b324dd44ae',1,'BMP280_DEV.h']]],
+  ['bmp280_5fspi1_19',['BMP280_SPI1',['../_b_m_p280___d_e_v_8h.html#a8b11af9478a385bfe25c725e658b0800ab04ae4c530a3dc322300b0e6469a8d11',1,'BMP280_DEV.h']]],
+  ['bmp280_5fstatus_20',['BMP280_STATUS',['../_b_m_p280___d_e_v_8h.html#a06fc87d81c62e9abb8790b6e5713c55ba6f5fb2e1b295a0094e136b112663d90c',1,'BMP280_DEV.h']]],
+  ['bmp280_5ftemp_5flsb_21',['BMP280_TEMP_LSB',['../_b_m_p280___d_e_v_8h.html#a06fc87d81c62e9abb8790b6e5713c55ba24a70903bb500d04dccb2c50a5d21e02',1,'BMP280_DEV.h']]],
+  ['bmp280_5ftemp_5fmsb_22',['BMP280_TEMP_MSB',['../_b_m_p280___d_e_v_8h.html#a06fc87d81c62e9abb8790b6e5713c55ba1e93c3ccbb5e2b5b033744bef94b0701',1,'BMP280_DEV.h']]],
+  ['bmp280_5ftemp_5fxlsb_23',['BMP280_TEMP_XLSB',['../_b_m_p280___d_e_v_8h.html#a06fc87d81c62e9abb8790b6e5713c55ba0ecf3f8ff72c819c5f1f7c2d10cf4c3c',1,'BMP280_DEV.h']]],
+  ['bmp280_5ftrim_5fparams_24',['BMP280_TRIM_PARAMS',['../_b_m_p280___d_e_v_8h.html#a06fc87d81c62e9abb8790b6e5713c55ba7669830866f14a6f9591f0c1efd66a92',1,'BMP280_DEV.h']]],
+  ['board_20compatibility_25',['Board compatibility',['../index.html#autotoc_md4',1,'']]],
+  ['breakout_20arduino_20library_26',['Pressure &amp; Temperature sensor BMP280 Breakout Arduino library',['../index.html',1,'']]]
 ];
