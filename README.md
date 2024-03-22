@@ -6,7 +6,7 @@
 
 | ![Product name](https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg) |
 | :------------------------------------------------------------------------------------: |
-|                      [Pressure & Temperature sensor BMP388 Breakout](https://www.solde.red/333315)                      |
+|                      [Pressure & Temperature sensor BMP280 Breakout](https://www.solde.red/333315)                      |
 
 OPIS PROIZVODA + LINK NA [easyC ecosystem](https://www.soldered.com/en/easyC).
 
@@ -18,13 +18,13 @@ OPIS PROIZVODA + LINK NA [easyC ecosystem](https://www.soldered.com/en/easyC).
 
 ### Hardware design
 
-You can find hardware design for this board in _Pressure & Temperature sensor BMP388 Breakout_ hardware repository.
+You can find hardware design for this board in _Pressure & Temperature sensor BMP280 Breakout_ hardware repository.
 
 ### Documentation
 
 Access Arduino library documentation [here](https://SolderedElectronics.github.io/Soldered-BMP280-Arduino-Library/).
 
-- Tutorial for using the Pressure & Temperature sensor BMP388 Breakout board
+- Tutorial for using the Pressure & Temperature sensor BMP280 Breakout board
 - Installing an Arduino library
 
 ### Board compatibility
@@ -46,7 +46,7 @@ At Soldered, we design and manufacture a wide selection of electronic products t
 ### Original source
 
 ​
-This library is possible thanks to original [BMP388_DEV](https://github.com/MartinL1/BMP388_DEV) library. Thank you, MartinL1.
+This library is possible thanks to original [BMP280_DEV](https://github.com/MartinL1/BMP280_DEV) library. Thank you, MartinL1.
 
 ### Open-source license
 
